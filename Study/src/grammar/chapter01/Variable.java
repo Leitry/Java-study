@@ -1,4 +1,4 @@
-package Chapter01;
+package grammar.chapter01;
 
 /**
  * 变量学习

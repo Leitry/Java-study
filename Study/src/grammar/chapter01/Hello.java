@@ -1,4 +1,4 @@
-package Chapter01;
+package grammar.chapter01;
 //输出Hello,World
 public class Hello {
     public static void main(String[] args) {
